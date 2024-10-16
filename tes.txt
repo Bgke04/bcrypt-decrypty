@@ -1,0 +1,8 @@
+X-wpbf/pw1.txt
+X-wpbf/pw2.txt
+X-wpbf/wordlist.txt
+wpbf/plugins.txt
+wpbf/wordlist.txt
+LFISuite/pathtotest.txt
+LFISuite/pathtotest_huge.txt
+LFISuite/tes.txt
