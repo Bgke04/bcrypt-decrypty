@@ -10,4 +10,4 @@ cd bcrypt-decrypty
 
 cd bcryot
 
-python3 hantam.pg
+python3 hantam.py
